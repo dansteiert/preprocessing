@@ -6,8 +6,16 @@
           <option name="url" value="https://github.com/AndreaVolkamer/OpenSourceCADD_2019.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dansteiert/TeachOpenCADD.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dansteiert/CADDSeminar_2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Übungszettel + Skripte\CADD\CADD Pipline" />
+    <option name="cloneParentDir" value="C:\Users\Titus\Desktop\CADD-Seminar" />
   </component>
 </application>
