@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'Git_seminar_2019'" />
+    <option name="defaultScopeName" value="Project 'Git_seminar_2019'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'Git_seminar_2019'" />
   </component>
 </application>
