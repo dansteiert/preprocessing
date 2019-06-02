@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="File 'C:\Users\Titus\Downloads\flower_neural(1).py [flower_neural(1).py]'" />
+    <option name="defaultScopeName" value="File 'C:\Users\Titus\Downloads\flower_neural(1).py [flower_neural(1).py]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\Titus\Downloads\flower_neural(1).py [flower_neural(1).py]'" />
   </component>
 </application>
